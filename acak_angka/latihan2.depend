@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1569236016 source:e:\zedl\latihan2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1569839892 source:g:\zedl\gameprogramming\latihan2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1571046684 source:g:\zedl\gameprogramming\bahan_uts\latihan2_acak_angka\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
